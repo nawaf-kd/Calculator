@@ -1,0 +1,8 @@
+C:\Users\nawkd\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nawkd\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nawkd\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nawkd\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\nawkd\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nawkd\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nawkd\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nawkd\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
